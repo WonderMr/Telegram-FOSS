@@ -7,6 +7,8 @@ Video Stickers, Better Reactions and More
 - Tap the ♡ button in chats to jump to messages with unseen reactions.
 - Quickly return to a specific chat after following links to other chats.
 - View the complete list of changes in-app or on our blog.
+- **Telegram FOSS:**
+  - Login other clients via QR code
 
 ### v.8.4.4
 - Bugfix release

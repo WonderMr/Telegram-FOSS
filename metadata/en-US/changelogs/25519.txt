@@ -1,3 +1,4 @@
+* TFOSS: login other clients via QR
 * Convert any videos into easy-to-make .webm video stickers.
 * React with extra emoji showing love, appreciation, anger or surprise.
 * Reactions show smaller, compact animations.
